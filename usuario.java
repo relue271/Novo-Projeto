@@ -7,7 +7,4 @@ class Usuario {
     int cpf;
     int cep;
     long int var;
-    String nome_do_meio;
-    String ultimo_nome;
-    int numero_de_serie;
 }
