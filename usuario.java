@@ -10,4 +10,6 @@ class Usuario {
     String nome_do_meio;
     String ultimo_nome;
     int numero_de_serie;
+    int papapa;
+    float menos;
 }
